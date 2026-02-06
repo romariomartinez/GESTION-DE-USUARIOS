@@ -34,7 +34,7 @@ La aplicacion permite realizar operaciones CRUD completas sobre usuarios:
 | **Apellido** | Minimo 2 caracteres, requerido | Apellido del usuario |
 | **Email** | Formato valido (regex) | Correo electronico unico |
 | **Telefono** | Formato regional (10-15 digitos) | Numero de telefono |
-| **Fecha de nacimiento** | Edad entre 18 y 100 anos | Calcula la edad automaticamente |
+| **Fecha de nacimiento** | Edad entre 18 y 100 años | Calcula la edad automaticamente |
 
 **Caracteristicas del formulario:**
 
